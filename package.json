@@ -46,7 +46,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-typography": "^0.16.19",
-    "typescript": "^3.5.2",
+    "typescript": "^3.9.10",
     "typography": "^0.16.19"
   },
   "repository": {
