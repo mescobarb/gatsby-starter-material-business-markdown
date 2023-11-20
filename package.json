@@ -20,7 +20,7 @@
     "@material/react-text-field": "^0.14.1",
     "@types/classnames": "^2.2.9",
     "@types/node": "^11.13.15",
-    "@types/react": "^16.8.22",
+    "@types/react": "^16.14.50",
     "@types/react-dom": "^16.8.4",
     "gatsby": "^2.13.1",
     "gatsby-image": "^2.2.4",
